@@ -1,6 +1,6 @@
 # 📊 Sales Analysis Excel Project
 
-Welcome to the **Sales Analysis Excel Project** repository!  
+Welcome to the **bike Sales Analysis Excel Project** repository!  
 This project focuses on analyzing sales data using Microsoft Excel. The dataset provides insights into customer demographics and their purchasing behavior.
 
 ---
